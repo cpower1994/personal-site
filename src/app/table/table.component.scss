@@ -1,0 +1,27 @@
+table {
+  background: #212121;
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  color: white;
+  width: 30%;
+}
+
+mat-paginator {
+  background: #212121;
+  color: white;
+}
+
+::ng-deep .mat-select-arrow {
+  color: white;
+}
+
+::ng-deep .mat-select-value {
+  color: white;
+}
